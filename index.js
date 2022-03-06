@@ -27,4 +27,8 @@ function myFunction() {
       alert ("Ama");
     }
   }
+  else {
+    var d = new Date(date);
+    var s = d.getDay();
+  }
 }
