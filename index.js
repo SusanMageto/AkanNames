@@ -6,50 +6,50 @@ function myFunction() {
     var s = d.getDay();
 
     if (s==0){
-      alert ("Akosua");
+      alert ("Your Akan name is Akosua");
     }
     else if (s==1) {
-      alert ("Adwoa");
+      alert ("Your Akan name is Adwoa");
     }
     else if (s==2) {
-      alert ("Abenaa");
+      alert ("Your Akan name is Abenaa");
     }
     else if (s==3) {
-      alert ("Akua");
+      alert ("Your Akan name is Akua");
     }
     else if (s==4) {
-      alert ("Yaa");
+      alert ("Your Akan name is Yaa");
     }
     else if (s==5) {
-      alert ("Afua");
+      alert ("Your Akan name is Afua");
     }
     else if (s==6) {
-      alert ("Ama");
+      alert ("Your Akan name is Ama");
     }
   }
   else {
     var d = new Date(date);
     var s = d.getDay();
     if (s==0){
-      alert ("Kwasi");
+      alert ("Your Akan name is Kwasi");
     }
     else if (s==1) {
-      alert ("Kwadwo");
+      alert ("Your Akan name is Kwadwo");
     }
     else if (s==2) {
-      alert ("Kwabena");
+      alert ("Your Akan name is Kwabena");
     }
     else if (s==3) {
-      alert ("Kwaku");
+      alert ("Your Akan name is Kwaku");
     }
     else if (s==4) {
-      alert ("Yaw");
+      alert ("Your Akan name is Yaw");
     }
     else if (s==5) {
-      alert ("Kofi");
+      alert ("Your Akan name is Kofi");
     }
     else if (s==6) {
-      alert ("Kwame");
+      alert ("Your Akan name is Kwame");
     }
   }
 }
